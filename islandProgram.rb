@@ -79,6 +79,8 @@ class FileAccess
   end
 end
 
+# この行を追加しました 
+
 start_time = Time.now#開始時刻を設定。
 
 search = Search.new
