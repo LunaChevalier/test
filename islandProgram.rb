@@ -84,7 +84,7 @@ end
 # masterが追加しました
 
 start_time = Time.now#開始時刻を設定。
-
+# 新たに追加しました
 search = Search.new
 file_access = FileAccess.new
 
