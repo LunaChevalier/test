@@ -82,7 +82,7 @@ end
 # この行を追加しました
 # どんどん追加してみます
 # さらに追加しました 
-
+# あいうえお
 start_time = Time.now#開始時刻を設定。
 
 search = Search.new
