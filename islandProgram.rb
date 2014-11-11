@@ -79,7 +79,8 @@ class FileAccess
   end
 end
 
-# この行を追加しました 
+# この行を追加しました
+# どんどん追加してみます 
 
 start_time = Time.now#開始時刻を設定。
 
