@@ -16,6 +16,8 @@ finish_time = 0#プログラム終了時刻
 pass_time = 0#プログラム実行時の経過時間
 output_file = 'stampsheet.txt'#訪れた島の番号を出力するファイル名。
 
+#追加しました
+
 class Search
   def start
     start_island = 0
