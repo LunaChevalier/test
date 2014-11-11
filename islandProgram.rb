@@ -17,6 +17,7 @@ pass_time = 0#プログラム実行時の経過時間
 output_file = 'stampsheet.txt'#訪れた島の番号を出力するファイル名。
 
 #追加しました
+#エリーチカ
 
 class Search
   def start
